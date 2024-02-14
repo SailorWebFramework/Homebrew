@@ -1,4 +1,3 @@
-// compass.rb
 class Localdic < Formula
   desc "Command Line Interface for Sailor - A Frontend Web Framework in Swift"
   homepage "https://github.com/SailorWebFramework/Compass"
