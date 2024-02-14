@@ -1,4 +1,4 @@
-class Localdic < Formula
+class Compass < Formula
   desc "Command Line Interface for Sailor - A Frontend Web Framework in Swift"
   homepage "https://github.com/SailorWebFramework/Compass"
   url "https://github.com/SailorWebFramework/Compass", tag: "0.0.1"
