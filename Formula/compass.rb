@@ -11,6 +11,6 @@ class Compass < Formula
   end
 
   test do
-    system "#{bin}localdic", "list"
+    system "#{bin}/compass", "list"
   end
 end
