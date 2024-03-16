@@ -7,7 +7,7 @@ class Compass < Formula
   depends_on "xcode": [:build]
 
   def install
-    system "make", "install"
+    system "make", "install",  "prefix=#{prefix}"
   end
 
   test do
