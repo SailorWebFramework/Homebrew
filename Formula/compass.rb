@@ -11,6 +11,6 @@ class Compass < Formula
   end
 
   test do
-    system "#{bin}/compass", "list"
+    system "#{bin}compass", "list"
   end
 end
